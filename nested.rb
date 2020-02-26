@@ -126,6 +126,6 @@ def adding_to_dennis
 end
 
 def nested_hash_hooper
- return programmer_hash[:grace_hopper]
+ programmer_hash[1]
   
 end 
